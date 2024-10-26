@@ -59,7 +59,51 @@ body{
 
 .second-content h1{
     text-align: center; 
-    position: relative;
+    position: relative;* {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        background-image: url(fotodefundo.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: #FDBBCC;
+        font-family: 'Arial', sans-serif;
+    }
+    
+    h1 {
+        font-size: 50px;
+        margin-bottom: 20px;
+        font-weight: 900;
+        color: #751b40;
+    }
+    
+    h2 {
+        font-weight: 900;
+        font-size: 25px;
+        color: #751b40;
+    }
+    
+    .card {
+        background-color: #ffffff;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    
+    .card-body {
+        padding: 20px;
+    }
+    
+    .img-fluid {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    .subtitle {
+        margin-bottom: 40px;
+    }
+    
     top: 50px;
 
 }
@@ -75,7 +119,7 @@ i{
     z-index: 2;
     background-color: #ffffff;
     border-radius: 35px;
-    height: 4200px;
+    height: 4300px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
     margin-bottom: 30px;
 }
@@ -88,7 +132,7 @@ i{
     z-index: 2;
     background-color: #ffffff;
     border-radius: 25px;
-    height: 4730px;
+    height: 6300px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
     margin-bottom: 30px;
 }
