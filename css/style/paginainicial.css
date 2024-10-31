@@ -21,39 +21,40 @@ h1{
     font-size: 50px;
     margin-bottom: 20px;
     font-weight: 900;
-    color: #751b40;
+    color: #4E0076;
 }
 h2{
     
     font-weight: 900;
     font-size: 25px;
-    color:  #751b40;
+    color:  #4E0076;
 }
 
 h3{
     font-size: 25px;
     font-weight: 900;
-    color: #751b40;
+    color: #4E0076;
 }
 h4{
     font-size: 25px;
     font-weight: 800;
-    color:  #751b40;
+    color:  #4E0076;
 }
 
 p{
     margin-top:20px;
     font-size: 10px;
     margin-bottom:20px;
+    text-align: center;
 
 }
 
 
 body{
-    background-image: url(fotodefundo.jpg);
+    background-image: url(capaa.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #FDBBCC;
+    background-color: #DDA6F9;
 }
 
 
@@ -65,10 +66,10 @@ body{
     }
     
     body {
-        background-image: url(fotodefundo.jpg);
+        background-image: url(capaa.jpeg);
         background-repeat: no-repeat;
         background-size: cover;
-        background-color: #FDBBCC;
+        background-color: #4E0076;
         font-family: 'Arial', sans-serif;
     }
     
@@ -76,13 +77,13 @@ body{
         font-size: 50px;
         margin-bottom: 20px;
         font-weight: 900;
-        color: #751b40;
+        color: #4E0076;
     }
     
     h2 {
         font-weight: 900;
         font-size: 25px;
-        color: #751b40;
+        color: #4E0076;
     }
     
     .card {
@@ -119,7 +120,7 @@ i{
     z-index: 2;
     background-color: #ffffff;
     border-radius: 35px;
-    height: 4300px;
+    height: 4350px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
     margin-bottom: 30px;
 }
